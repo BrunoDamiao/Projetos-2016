@@ -1,2 +1,6 @@
-/Git/*
-/POO/*
+# Ignore tudo:
+*
+
+# Exceto este diretório:
+
+!LUMEN/* LUMEN/
