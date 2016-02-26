@@ -1,6 +1,6 @@
 # Ignore tudo:
-*/GIT/*
-*/POO/*
+/Git
+/POO
 
 # Exceto este diretório:
 
