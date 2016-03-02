@@ -18,8 +18,8 @@ class Pessoa extends Model
 	];
 	//
 
-	public function Telefones()
+	public function telefones()
 	{
-		# code...
+		return $this->hasMany(Telefone::class);
 	}
 }

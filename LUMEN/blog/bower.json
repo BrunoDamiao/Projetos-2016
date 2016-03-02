@@ -1,0 +1,23 @@
+{
+  "name": "Blog",
+  "description": "Agenda Telefonica",
+  "main": "",
+  "authors": [
+    "Bruno Damião <br2005@oi.com.br>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BrunoDamiao/Projetos-2016",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}

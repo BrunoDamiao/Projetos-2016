@@ -20,8 +20,8 @@ class Telefone extends Model
 	];
 	//
 
-	/*public function Telefones()
+	public function getNumeroAttribute()
 	{
-		# code...
-	}*/
+		return "{$this->codpaís} ({$this->ddd}) {$this->prefixo}-{$this->sufixo}";
+	}
 }
